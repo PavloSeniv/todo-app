@@ -12,7 +12,7 @@ https://github.com/PavloSeniv/todo-app
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://user-images.githubusercontent.com/71393825/161434271-40a4fab1-81b1-4abf-85ad-0f4f48c9819f.PNG)
 
 ## Stack
 
