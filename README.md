@@ -40,9 +40,3 @@ Install dependencies
 ```bash
   npm install
 ```
-
-or
-
-```bash
-  yarn
-```
